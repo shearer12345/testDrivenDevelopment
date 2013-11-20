@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class ExampleLoggingTestClassTest extends AbstractLoggingTestClass {
+public class ExampleLoggingTest extends AbstractLoggingJUnitTest {
 
 	@Test
 	public void test() {

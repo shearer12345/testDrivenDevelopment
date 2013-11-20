@@ -12,9 +12,9 @@ import org.junit.runner.Description;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public abstract class AbstractLoggingTestClass {
+public abstract class AbstractLoggingJUnitTest {
 
-	static Logger logger = LoggerFactory.getLogger(AbstractLoggingTestClass.class);
+	static Logger logger = LoggerFactory.getLogger(AbstractLoggingJUnitTest.class);
 
 	//http://thomassundberg.wordpress.com/2012/07/08/performing-an-action-when-a-test-fails/
 	//http://stackoverflow.com/questions/9942825/how-to-tell-when-junit-finishes-by-just-using-a-testwatcher
