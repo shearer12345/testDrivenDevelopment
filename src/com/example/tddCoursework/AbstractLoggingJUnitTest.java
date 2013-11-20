@@ -21,16 +21,8 @@ public abstract class AbstractLoggingJUnitTest {
 	@Rule
 	final public TestWatcher watchman = new TestWatcher()
 	{
-		private Description currentTest;
-        private long startTime;
-        private long endTime;
-        
-        
-
-        @Override
+		@Override
         protected void starting(Description d) {
-            startTime = System.currentTimeMillis();
-            currentTest = d;
             logger.trace("  Test [{}] starting ", d.getMethodName());
         }
 
