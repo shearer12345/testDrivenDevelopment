@@ -12,7 +12,7 @@ This is an Eclipse Project used as a framework to support coursework on Test-Dri
   2. Next
   3. Select root directory to location of downloaded project
   4. Finish
-4. Add ```logback.xml``` file back to the project
+4. Add ```logback.xml``` file back to the project (see [https://github.com/shearer12345/ncl_csc2021_tddCoursework/issues/1](https://github.com/shearer12345/ncl_csc2021_tddCoursework/issues/1))
   1. Navigate to ```ncl_csc2021_tddCoursework/bin```
   2. Copy text from from https://raw.github.com/shearer12345/ncl_csc2021_tddCoursework/master/bin/logback.xml
   3. Paste as new file at ```ncl_csc2021_tddCoursework/bin/logback.xml```
