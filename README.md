@@ -28,6 +28,8 @@ This is an Eclipse Project used as a framework to support coursework on Test-Dri
       ```
   4. Additionally, there should be an html log file at ```ncl_csc2021_tddCoursework/log```
     1. Open the log file in your browser to check it has log data in it - it should be showing a log session that started very recently
+5. You are good to go
+
 
 #Notes
 
