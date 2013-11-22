@@ -32,4 +32,4 @@ This is an Eclipse Project used as a framework to support coursework on Test-Dri
 1. There is an example test class called ```ExampleLoggingTest.java``` that should be useful to get you started
 2. **ALL** your test classes need to extend ```AbstractLoggingJUnitTest```, which provides the build hooks to log test events
 3. You **can** have multiple test classes, as long as they all extend ```AbstractLoggingJUnitTest```
-4. If you're using git for version, the present .gitignore ignores everything in log/ so you'll want to change this
+4. If you're using git for versioning, the present .gitignore ignores everything in log/ so you'll want to change this
